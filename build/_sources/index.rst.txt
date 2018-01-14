@@ -7,9 +7,10 @@ Welcome to tutorial's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
+    :maxdepth: 2
+    :caption: Contents:
+    intro
+    tutorial
 
 
 Indices and tables
